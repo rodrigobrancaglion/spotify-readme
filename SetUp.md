@@ -103,8 +103,16 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorizat
 
 - Deploy!
 
-<!--
 
+## Add to Your Readme
+
+```md
+### Spotify Playing 🎧
+
+[<img src="https://<YOUR VERCEL SERVER URL>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR SPOTIFY USER ID>)
+```
+
+<!--
 ### Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fnovatorem%2Fnovatorem)
