@@ -1,1 +1,1 @@
-[![Spotify](https://spotify-readme-rodrigo-brancaglions-projects.vercel.app/api/spotify-playing)](https://open.spotify.com/user/rodrigo.brancaglion)
+[![Spotify](https://spotify-readme-rodrigobrancaglions.vercel.app/api/spotify-playing?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/rodrigo.brancaglion)
