@@ -10,7 +10,7 @@ import os
 import random
 
 # Importação correta do escape
-from jinja2.utils import escape
+from markupsafe import escape
 
 SPOTIFY_CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID")
 SPOTIFY_SECRET_ID = os.getenv("SPOTIFY_SECRET_ID")
